@@ -1,6 +1,7 @@
 Курсовой проект 
 Сайт на фреймворке Bootstrap5 с якорной прокруткой
 Макет на фигме https://www.figma.com/file/SKexse8Pb3GLXFm7rXOYH4/Be%D0%B1-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-2022?node-id=0%3A1
+https://www.figma.com/file/22Mt3AOby7XBmtnRULVrLa/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82?node-id=0%3A1
 
 Главная страница
 ![image](https://user-images.githubusercontent.com/64641338/203965828-c03d09ba-91ad-4358-85d5-360dbd90e22b.png)
