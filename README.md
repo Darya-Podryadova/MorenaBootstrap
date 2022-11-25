@@ -8,6 +8,8 @@
 Форма обратной связи + подвал
 ![image](https://user-images.githubusercontent.com/64641338/203966039-7ffa7094-666c-4543-a26f-b037dfe19808.png)
 
+Адаптация под мобильное устройство
+![image](https://user-images.githubusercontent.com/64641338/203966576-bd71372f-084e-4f3a-95bb-24af819e3373.png)
 
 
 
