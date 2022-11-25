@@ -1,3 +1,18 @@
+Курсовой проект 
+Сайт на фреймворке Bootstrap5 с якорной прокруткой
+Макет на фигме https://www.figma.com/file/SKexse8Pb3GLXFm7rXOYH4/Be%D0%B1-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-2022?node-id=0%3A1
+
+Главная страница
+![image](https://user-images.githubusercontent.com/64641338/203965828-c03d09ba-91ad-4358-85d5-360dbd90e22b.png)
+
+Форма обратной связи + подвал
+![image](https://user-images.githubusercontent.com/64641338/203966039-7ffa7094-666c-4543-a26f-b037dfe19808.png)
+
+
+
+
+
+
 <p align="center">
   <a href="https://getbootstrap.com/">
     <img src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
